@@ -199,7 +199,9 @@ export const Home = (): JSX.Element => {
               </Box>
             )}
             <Box>
-              <HomeButton onClick={clearCompleted}> Clear Completed</HomeButton>
+              <HomeButton onClick={clearCompleted}>
+                Limpar finalizadas
+              </HomeButton>
             </Box>
           </Grid>
         </CardActions>
