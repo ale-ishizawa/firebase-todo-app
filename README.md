@@ -2,7 +2,7 @@
 
 ## You can check the app in the url:
 
-### `https://clinicorp-398522.web.app/`
+[https://clinicorp-398522.web.app/](https://clinicorp-398522.web.app/)
 
 ## Available Scripts
 
